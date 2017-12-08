@@ -1,0 +1,1 @@
+To flash: `make xd60:tim:dfu`
